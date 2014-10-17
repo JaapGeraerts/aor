@@ -1,4 +1,8 @@
-<transcription> 
+<?xml version="1.0" encoding="UTF-8"?>
+
+<transcription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../../../Harvey/XML/Harveyschema17102014.xsd"> <!--JG: association with local xsd works, but problems with GitHub hosting a schema-->
+
     <page filename="00000009.tif" signature="a2r" reader="Harvey" />
     <annotation>
         
@@ -22,5 +26,5 @@
         <mark name="equal_sign" method="pen" place="left_margin" /> 
         <mark name="dot" method="pen" place="intext" /> <!-- uiderentur statui -->
     </annotation>
-</transcription>         
+</transcription>
         
